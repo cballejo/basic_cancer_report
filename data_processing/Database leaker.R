@@ -3,6 +3,7 @@
 library(tidyverse)
 library(lubridate)
 
+source("data_processing/functions.R")
 
 ## Read database
 
